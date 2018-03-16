@@ -1,0 +1,27 @@
+{
+  "name": "pinyin-sort",
+  "version": "1.0.0",
+  "description": "Sort by pinyin depend on GBK charactor index, for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockedpanda/pinyin-sort.git"
+  },
+  "keywords": [
+    "pinyin",
+    "sort",
+    "order"
+  ],
+  "author": "rockedpanda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rockedpanda/pinyin-sort/issues"
+  },
+  "homepage": "https://github.com/rockedpanda/pinyin-sort#readme",
+  "dependencies": {
+    "iconv-lite": "^0.4.19"
+  }
+}
